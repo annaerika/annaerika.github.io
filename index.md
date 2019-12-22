@@ -28,6 +28,8 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
+**Command line course project.** The project included creating my own website using GitHub pages.
+
 ## Misc. 
 
 [Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
