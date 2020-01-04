@@ -14,6 +14,8 @@ I'm a language student at the University of Helsinki with German language and li
 
 My email address is of the form first_name.last_name@helsinki.fi. 
 
+## [CV](https://www.overleaf.com/read/tjgktdfsfrcx)
+
 ## Courses I've Taken
 
 [World's biggest problem: Causes and consequences of misunderstandings (Finnish: Maailman suurin ongelma: väärinymmärtämisen syitä ja seurauksia)](https://courses.helsinki.fi/fi/kik-408/122435804), spring 2018
