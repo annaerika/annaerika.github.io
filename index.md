@@ -32,4 +32,4 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+When I'm not studying, you can find me strumming my guitar, sketching on a piece of paper or watching biathlon (and ~~irrelevantly~~ dreaming of becoming a professional biathlete myself).
